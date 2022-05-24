@@ -1,0 +1,3 @@
+# ignore file extension: .exe and .obj
+*.exe
+*.obj
